@@ -1,4 +1,4 @@
-//Calculates sum of all multiples of 3 and 5 below the value of 'max'
+//Calculates sum of all multiples of 3 and 5 below the value of 'num'
 function SumOfMultiples(num) {
     const maxArr = Array.from(Array(num).keys()).slice(1);
     let result = 0;
