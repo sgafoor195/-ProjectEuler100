@@ -1,2 +1,2 @@
 # -ProjectEuler100
-The first 100 Project Euler problems as part of FreeCodeCamp's #ProjectEuler100 challenge.
+The first two Project Euler problems (in js) as part of FreeCodeCamp's #ProjectEuler100 challenge.
